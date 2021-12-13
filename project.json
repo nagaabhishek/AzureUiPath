@@ -1,0 +1,64 @@
+{
+  "name": "AzurePROD",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Mail.Activities": "[1.12.2]",
+    "UiPath.System.Activities": "[21.10.2]",
+    "UiPath.Testing.Activities": "[1.4.4]",
+    "UiPath.UIAutomation.Activities": "[21.10.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.3.0",
+  "projectVersion": "1.1.92418037",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "256ba3be-843d-493f-a454-2cee640db76e",
+        "fileName": "TestCase.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "6b138182-9438-4c8d-b76c-bde147f877e4",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
