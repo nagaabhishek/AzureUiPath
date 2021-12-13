@@ -1,5 +1,5 @@
 {
-  "name": "AzurePROD",
+  "name": "AzureUAT",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -39,13 +39,7 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "256ba3be-843d-493f-a454-2cee640db76e",
-        "fileName": "TestCase.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
