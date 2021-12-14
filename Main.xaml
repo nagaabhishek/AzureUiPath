@@ -82,7 +82,7 @@
         <OutArgument x:TypeArguments="x:Int32">[b]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">15</InArgument>
+        <InArgument x:TypeArguments="x:Int32">20</InArgument>
       </Assign.Value>
     </Assign>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,61" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="[(a+b).ToString]" />
